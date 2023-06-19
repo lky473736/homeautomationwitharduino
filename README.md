@@ -9,4 +9,4 @@ Home Automation with Arduino for Gachon Software Competition
 
 This is the code and circuit of "Smart Home with Arduino: Home Automation", which won the grand prize at the <2023 Gachon University Software Competition: AI-Metaverse Festival> held on 2023.06.15. The entire copyright of this idea belongs to TEAM 16 (Lee Hyun-ho, Lee Hyun-ho, Lim Gyu-yeon, Lim Seung-ki), and the copyright of the code in the repository belongs to Lim Gyu-yeon.
 
-simulation : https://www.youtube.com/watch?v=V2E_JrxhXsQ
+simulation : https://www.youtube.com/watch?v=V2E_JrxhXsQ
